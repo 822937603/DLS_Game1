@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/main_menu.unity
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> TutorialStage
   isLoaded: 1
   isActive: 1
